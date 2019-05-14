@@ -62,9 +62,8 @@ typings/
 .next
 
 # built output
-dist
-dist-*
 test-dist
 test-dist*
 browser
+test*
 test-browser
